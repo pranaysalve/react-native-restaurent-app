@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from 'firebase/firestore/lite';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBalpkjTI_NnC3gfNrt2_P_zw6Z6XH8KlE",
+  apiKey: "APIKEY",
   authDomain: "mealstogo-64712.firebaseapp.com",
   projectId: "mealstogo-64712",
   storageBucket: "mealstogo-64712.appspot.com",
